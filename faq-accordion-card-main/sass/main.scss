@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@300;700&display=swap');
+@import 'variable';
+body{
+    font-family: 'Kumbh Sans', sans-serif;
+    background-image: linear-gradient($soft-violet, $soft-blue);
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+*{
+    box-sizing: border-box;
+}
+@import 'components';
