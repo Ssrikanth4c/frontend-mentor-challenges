@@ -97,6 +97,7 @@ hr{
     }
     .card-faq{
         transform: translateY(0);
+        padding-right: 150px;
     }
     .card-img{
         padding: 50px 0;
@@ -108,7 +109,7 @@ hr{
         height: 100%;
         .desktop-img{
             display: block;
-            transform: translateX(-200px);
+            transform: translateX(-30%);
 
         }
         .mobile-img{
