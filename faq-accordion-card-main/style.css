@@ -107,6 +107,7 @@ hr {
 
   .card-faq {
     transform: translateY(0);
+    padding: 50px 0;
     padding-right: 15%;
   }
 
@@ -132,7 +133,7 @@ hr {
     display: block;
     position: absolute;
     left: -100px;
-    top: 150px;
+    top: 200px;
     z-index: 22;
   }
 }
