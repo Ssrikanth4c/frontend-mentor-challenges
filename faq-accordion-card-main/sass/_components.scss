@@ -97,7 +97,7 @@ hr{
     }
     .card-faq{
         transform: translateY(0);
-        padding-right: 150px;
+        padding-right: 15%;
     }
     .card-img{
         padding: 50px 0;
@@ -109,7 +109,8 @@ hr{
         height: 100%;
         .desktop-img{
             display: block;
-            transform: translateX(-30%);
+            position: absolute;
+            left: -100px;
 
         }
         .mobile-img{
@@ -120,7 +121,7 @@ hr{
         display: block;
         position: absolute;
         left: -100px;
-        top:200px;
+        top:150px;
         z-index: 22;
     }
 }
